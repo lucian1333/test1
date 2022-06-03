@@ -6,6 +6,8 @@ public class testUpstreamOne {
 
     public void testingUpstream () {
 
+        System.out.println("Testing upstream on test1 !");
+
 
     }
 }
